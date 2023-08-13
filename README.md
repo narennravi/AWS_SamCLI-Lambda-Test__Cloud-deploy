@@ -1,2 +1,3 @@
 
-I have provided "Prerequisites - SAM Serverless application" (step-by-step) --> At /sam-app/Readme.md which would be more helpful to you.
+I have provided "Prerequisites - SAM Serverless application" --> location: /sam-app/Prerequisites.pdf which would be more helpful.
+Also included "README.md" --> location: /sam-app/README.md file (step by step guidance)
